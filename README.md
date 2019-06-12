@@ -4,4 +4,4 @@
 - Outputs data in console
 # Client
 - Hooks user's keyboard
-- Sends every click to server with active window data
+- Sends every entered string to server with the information about active window data
